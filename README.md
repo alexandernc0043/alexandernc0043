@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning ... Java in university.
 - 📫 How to reach me ... Message me on linkedin!
 - 😄 Pronouns: ... he/him
+- 🌐 Languages: Java, Python, HTML, CSS, JS
 
 <!---
 alexandernc0043/alexandernc0043 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

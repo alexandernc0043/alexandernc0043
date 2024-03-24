@@ -16,14 +16,14 @@ You can click the Preview link to take a look at your changes.
 ## Paint 
 
 A simple painting program created in Python using tkinter and turtle.\
-[View On Github](https://github.com/alexandernc0043/Paint-Program)
+[View On Github](https://github.com/alexandernc0043/Paint-Program) [View Demo](YoutubeLink Here)
 
 ## Hang Man Game - Working on
 
 A text based version of Hang Man created with Java.\
-[View On Github](https://github.com/alexandernc0043/HangMan)
+[View On Github](https://github.com/alexandernc0043/HangMan) [View Demo](Youtube Link Here)
 
 ## Website - Working on
 
 A portfolio website I was trying to create to showcase my projects\
-[View On Github](https://github.com/alexandernc0043/alexandernc0043.github.io)
+[View On Github](https://github.com/alexandernc0043/alexandernc0043.github.io) [View]

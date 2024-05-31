@@ -2,6 +2,7 @@
 - 👋 Hi, I’m @alexandernc0043
 - 👀 I’m interested in ... Software Engineering and Cybersecurity.
 - 🌱 I’m currently learning ... Java in university.
+- 📖 I want to learn ... Kotlin, Javascript
 - 📫 How to reach me ... Message me on linkedin!
 - 😄 Pronouns: ... he/him
 - 🌐 Languages: Java, Python, HTML, CSS

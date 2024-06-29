@@ -1,7 +1,7 @@
 # About Me
 - 👋 Hi, I’m @alexandernc0043
 - 👀 I’m interested in ... Software Engineering and Cybersecurity.
-- 🌱 I’m currently learning ... Kotlin
+- 🌱 I’m currently learning ... Kotlin, SQLite
 - 📖 I want to learn ...  Javascript
 - 📫 How to reach me ... Message me on linkedin!
 - 😄 Pronouns: ... he/him
@@ -17,14 +17,14 @@ You can click the Preview link to take a look at your changes.
 ## Paint 
 
 A simple painting program created in Python using tkinter and turtle.\
-[View On Github](https://github.com/alexandernc0043/Paint-Program) [View Demo](YoutubeLink Here)
+[View On Github](https://github.com/alexandernc0043/Paint-Program)
 
 ## Hang Man Game - Working on
 
 A text based version of Hang Man created with Java.\
-[View On Github](https://github.com/alexandernc0043/HangMan) [View Demo](Youtube Link Here)
+[View On Github](https://github.com/alexandernc0043/HangMan)
 
 ## Website - Working on
 
 A portfolio website I was trying to create to showcase my projects\
-[View On Github](https://github.com/alexandernc0043/alexandernc0043.github.io) [View]
+[View On Github](https://github.com/alexandernc0043/alexandernc0043.github.io)

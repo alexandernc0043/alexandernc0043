@@ -1,11 +1,12 @@
 # About Me
 - 👋 Hi, I’m @alexandernc0043
 - 👀 I’m interested in ... Software Engineering and Cybersecurity.
-- 🌱 I’m currently learning ... Kotlin, SQLite
+- 🌱 I’m currently learning ... Exposed by Jetbrains
 - 📖 I want to learn ...  Javascript
 - 📫 How to reach me ... Message me on linkedin!
 - 😄 Pronouns: ... he/him
-- 🌐 Languages: Java, Python, HTML, CSS
+- 🌐 Languages: Java, Kotlin, SQLite, Python, HTML, CSS
+- 📚 Libaries: [JDA](https://github.com/discord-jda/JDA), [JDA-KTX](https://github.com/MinnDevelopment/jda-ktx)
 
 <!---
 alexandernc0043/alexandernc0043 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

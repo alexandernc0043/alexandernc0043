@@ -5,7 +5,7 @@
 - 📖 I want to learn ...  Rust
 - 📫 How to reach me ... Message me on linkedin!
 - 😄 Pronouns: ... he/him
-- 🌐 Languages: Java, Kotlin, SQLite, Python, HTML, CSS
+- 🌐 Languages: Java, Kotlin, C, SQLite, Python, HTML, CSS
 - 📚 Libaries: [JDA](https://github.com/discord-jda/JDA), [JDA-KTX](https://github.com/MinnDevelopment/jda-ktx)
 
 <!---

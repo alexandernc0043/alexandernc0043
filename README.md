@@ -1,8 +1,8 @@
 # About Me
 - 👋 Hi, I’m @alexandernc0043
 - 👀 I’m interested in ... Software Engineering and Cybersecurity.
-- 🌱 I’m currently learning ... C
-- 📖 I want to learn ...  Javascript/Typescript
+- 🌱 I’m currently learning ... HTML, CSS, Javascript
+- 📖 I want to learn ...  Rust
 - 📫 How to reach me ... Message me on linkedin!
 - 😄 Pronouns: ... he/him
 - 🌐 Languages: Java, Kotlin, SQLite, Python, HTML, CSS

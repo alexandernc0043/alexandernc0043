@@ -7,11 +7,11 @@
 # About Me
 - 👋 Hi, I’m @alexandernc0043
 - 👀 I’m interested in ... Software Engineering and Cybersecurity.
-- 🌱 I’m currently learning ... HTML, CSS, Javascript
+- 🌱 I’m currently learning ... 
 - 📖 I want to learn ...  Rust
 - 📫 How to reach me ... Message me on linkedin!
 - 😄 Pronouns: ... he/him
-- 🌐 Languages: Java, Kotlin, C, SQLite, Python, HTML, CSS
+- 🌐 Languages: Java, Kotlin, C, SQLite, Python, HTML, CSS, Javascript, Typescript
 - 📚 Libaries: [JDA](https://github.com/discord-jda/JDA), [JDA-KTX](https://github.com/MinnDevelopment/jda-ktx)
 
 <!---

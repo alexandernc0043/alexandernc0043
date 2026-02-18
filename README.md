@@ -12,7 +12,7 @@
 - 📫 How to reach me ... Message me on linkedin!
 - 😄 Pronouns: ... he/him
 - 🌐 Languages: Java, Kotlin, C, SQLite, Python, HTML, CSS, Javascript, Typescript
-- 📚 Libaries: [JDA](https://github.com/discord-jda/JDA), [JDA-KTX](https://github.com/MinnDevelopment/jda-ktx)
+- 📚 Libaries/Frameworks: [JDA](https://github.com/discord-jda/JDA), [JDA-KTX](https://github.com/MinnDevelopment/jda-ktx) React, Next.Js
 
 <!---
 alexandernc0043/alexandernc0043 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

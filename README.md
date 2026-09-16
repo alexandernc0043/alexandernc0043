@@ -18,6 +18,7 @@
 alexandernc0043/alexandernc0043 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<!---
 
 # Projects
 
@@ -35,3 +36,4 @@ A text based version of Hang Man created with Java.\
 
 A portfolio website I was trying to create to showcase my projects\
 [View On Github](https://github.com/alexandernc0043/alexandernc0043.github.io)
+ --->
